@@ -1,9 +1,5 @@
-<!DOCTYPE html>
 <html>
 <body>
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1">
-</iframe>
-
+	<h1 style="color: green; font-size: 40px;" align="center">  GANA TECH APP VERSION-085</h1>
 </body>
 </html>
